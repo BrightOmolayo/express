@@ -1,0 +1,24 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrightOmolayo/express.git"
+  },
+  "keywords": [],
+  "author": "bright <brightbalogun195@gmail.com>",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BrightOmolayo/express/issues"
+  },
+  "homepage": "https://github.com/BrightOmolayo/express#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
